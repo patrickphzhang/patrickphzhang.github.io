@@ -24,24 +24,31 @@ Research
 ======
 My research interests lie in computer system security. In particular, my research lies at operating systems, program analysis, compiler trasformation &optimization, and fuzzing. I have been working in the following directions:
 1. Hardware-assisted execution environment, particularly for Linux eBPF.
-2. Compiler-based code optimization and obfuscation
-3. Binary analysis and binary code similarity detection
+2. Compiler-based code optimization and obfuscation.
+3. Binary analysis and binary code similarity detection.
 
 Skills
 ======
-Compiler: Proficient in LLVM compiler architecture, middle-end and back-end programming, including program analysis, code transformation, and reinforcement. 
-Kernel: Experienced in kernel bypassing, eBPF, Linux kernel analysis, operating system development, and kernel debugging.
-Reverse Engineering: Skilled in binary code diffing and rewriting techniques.
-Others: Familiar with Intel/ARM hardware characteristics, Trusted Execution Environment principles and design, and fuzz testing.
-Programming Languages: C / C++ / Python / JavaScript / Java / Shell
+* Compiler: Proficient in LLVM compiler architecture, middle-end and back-end programming, including program analysis, code transformation, and reinforcement. 
+
+* Kernel: Experienced in kernel bypassing, eBPF, Linux kernel analysis, operating system development, and kernel debugging.
+
+* Reverse Engineering: Skilled in binary code diffing and rewriting techniques.
+
+* Others: Familiar with Intel/ARM hardware characteristics, Trusted Execution Environment principles and design, and fuzz testing.
+
+* Programming Languages: C / C++ / Python / JavaScript / Java / Shell
 
 Awards
 ======
-Outstanding Student of Chinese Academy of Sciences in 2019 and 2022
-Outstanding student of State Key Laboratory of Architecture in 2021
-Outstanding Contribution Award for Cultural Construction of State Key Laboratory of Architecture in 2019
-Runner up in the Chinese Academy of Sciences Institute of Computing Basketball Tournament in 2019
+* Outstanding Student of Chinese Academy of Sciences in 2019 and 2022
+
+* Outstanding student of State Key Laboratory of Architecture in 2021
+
+* Outstanding Contribution Award for Cultural Construction of State Key Laboratory of Architecture in 2019
+
+* Runner up in the Chinese Academy of Sciences Institute of Computing Basketball Tournament in 2019
 
 Academic Services
 ======
-Artifact Evaluation Committee in PACT 2021, CGO 2024, and CGO 2025
+* Artifact Evaluation Committee in PACT 2021, CGO 2024, and CGO 2025
