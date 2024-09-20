@@ -24,7 +24,7 @@ author:
   avatar           : "patrick.png"
   name             : "Patrick"
   pronouns         : "he/him"  
-  bio              : "Tencent Technology Expert"
+  # bio              : "Tencent Tech Expert"
   location         : "Beijing, CN"
   employer         : "Tencent / Wechat"
   uri              : # URL
