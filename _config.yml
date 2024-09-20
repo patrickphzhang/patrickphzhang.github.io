@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Patrick Zhang (张培华) / Dr"
 title_separator          : "-"
-name                     : &name "Patrick Zhang (张培华)"
+name                     : &name "Patrick"
 description              : &description "personal description"
 url                      : https://patrickphzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "patrickphzhang/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "patrick.png"
-  name             : "Patrick Zhang (张培华)"
+  name             : "Patrick"
   pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing, CN"
