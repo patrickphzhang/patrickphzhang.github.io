@@ -12,8 +12,11 @@ I work in WeChat group of Tencent now. I received my Ph.D. degree in Computer Ar
 News
 ======
 [09/19/2024] Our work is presented on the Linux Plumbers Conference 2024.
+
 [08/16/2023] Cheers! Our research proposal won the awards from Linux eBPF Fundation!
-[06/01/2023] One paper got accepted to USENIX Security 2024.
+
+[06/01/2023] Our paper got accepted to USENIX Security 2024.
+
 ...
 
 
