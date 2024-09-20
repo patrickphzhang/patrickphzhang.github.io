@@ -22,7 +22,7 @@ News
 
 Research
 ======
-My research interests lie in computer system security. In particular, my research lies at operating systems, program analysis, compiler trasformation &optimization, and fuzzing. I have been working in the following directions:
+My research interests lie in computer system security. In particular, my research lies at operating systems, program analysis, compiler trasformation & optimization, and fuzzing. I have been working in the following directions:
 1. Hardware-assisted execution environment, particularly for Linux eBPF.
 2. Compiler-based code optimization and obfuscation.
 3. Binary analysis and binary code similarity detection.
