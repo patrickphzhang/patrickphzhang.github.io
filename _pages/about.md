@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I work in WeChat group of Tencent now. I received my Ph.D. degree in Computer Architecture from ICT in 2024. My research interest lies in the security of computer systems. My current research focus is the operatiing system security, program analysis and optimization, and etc.
+I work in WeChat group of Tencent now. I received my Ph.D. degree in Computer Architecture from Institute of Computing Technology, University of Chinese Academy of Science in 2024. My research interest lies in the security of computer systems. My current research focus is the operatiing system security, program analysis and optimization, and etc.
 
 News
 ======
