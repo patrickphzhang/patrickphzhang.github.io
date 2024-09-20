@@ -22,7 +22,7 @@ repository               : "patrickphzhang/patrickphzhang.github.io"
 author:
   # Biographic information
   avatar           : "patrick.JPG"
-  name             : "Patrick"
+  # name             : "Patrick"
   pronouns         : "he/him"  
   # bio              : "Tencent Tech Expert"
   location         : "Beijing, CN"
