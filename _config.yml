@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Patrick Zhang (张培华)"
+title                    : "Patrick Zhang (张培华)"
 title_separator          : "-"
 name                     : &name "Patrick"
 description              : &description "I work in WeChat group of Tencent now. I received my Ph.D. degree in Computer Architecture from ICT in 2024. My research interest lies in the security of computer systems. My current research focus is the operatiing system security, program analysis and optimization, and etc."
