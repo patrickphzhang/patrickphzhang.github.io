@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in Computer Architecture, University of Chinese Academy of Sciences, 2024
 * M.S. in Computer Architecture, University of Chinese Academy of Sciences, 2019
-* B.S. in Computer Science and Technology, ShanDong University, 2017
+* B.S. in Computer Science and Technology, Shandong University, 2017
 
 Work experience
 ======
