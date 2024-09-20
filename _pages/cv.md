@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Architecture, University of Chinese Academy of Sciences, 2024
+* Ph.D. in Computer Architecture, University of Chinese Academy of Sciences, 2024
 * M.S. in Computer Architecture, University of Chinese Academy of Sciences, 2019
 * B.S. in Computer Science and Technology, ShanDong University, 2017
 
@@ -19,7 +19,7 @@ Work experience
 ======
 * 2024: Tencent Tech Expert
   * WeChat Group
-  * Duties includes: program profiling, binary rewrite based optimization
+  * Duties includes: program profiling, binary rewrite based optimization.
 
 * 2023: Research Assistant
   * Zhongguancun Laboratory
