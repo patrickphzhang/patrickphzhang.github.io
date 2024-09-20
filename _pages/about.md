@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Short Bios"
+title: "Patrick Peihua Zhang (张培华)"
 author_profile: true
 redirect_from: 
   - /about/
