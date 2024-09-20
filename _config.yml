@@ -8,23 +8,23 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Patrick Zhang (张培华) / Dr"
+title                    : "Dr. Patrick Zhang (张培华)"
 title_separator          : "-"
 name                     : &name "Patrick"
-description              : &description "personal description"
+description              : &description "I work in WeChat group of Tencent now. I received my Ph.D. degree in Computer Architecture from ICT in 2024. My research interest lies in the security of computer systems. My current research focus is the operatiing system security, program analysis and optimization, and etc."
 url                      : https://patrickphzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "patrickphzhang/academicpages.github.io"
+repository               : "patrickphzhang/patrickphzhang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "patrick.png"
   name             : "Patrick"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Tencent Technology Expert"
   location         : "Beijing, CN"
   employer         : "Tencent / Wechat"
   uri              : # URL
@@ -43,12 +43,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  # github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
