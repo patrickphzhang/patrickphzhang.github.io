@@ -35,7 +35,7 @@ Skills
 Awards
 ======
 * Outstanding Student of Chinese Academy of Sciences in 2019 and 2022
-* Outstanding student of State Key Laboratory of Architecture in 2021
+* Outstanding Student of State Key Laboratory of Architecture in 2021
 * Outstanding Contribution Award for Cultural Construction of State Key Laboratory of Architecture in 2019
 * Runner up in the Chinese Academy of Sciences Institute of Computing Basketball Tournament in 2019
 
