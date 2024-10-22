@@ -12,8 +12,8 @@ I work in the WeChat group of Tencent now. I received my Ph.D. in Computer Archi
 News
 ======
 * [09/19/2024] Our work was presented on the Linux Plumbers Conference 2024.
-* [08/16/2023] Cheers! Our research proposal won the award from Linux eBPF Fundation!
-* [06/01/2023] Our paper got accepted to USENIX Security 2024.
+* [08/16/2024] Cheers! Our research proposal won the award from Linux eBPF Fundation!
+* [06/01/2024] Our paper got accepted to USENIX Security 2024.
 * ...
 
 
