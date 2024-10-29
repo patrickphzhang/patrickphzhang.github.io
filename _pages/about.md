@@ -31,7 +31,7 @@ Skills
 * Kernel: Experienced in kernel bypassing, eBPF, Linux kernel analysis, operating system development, and kernel debugging.
 * Reverse Engineering: Skilled in binary code diffing and rewriting techniques.
 * Others: Familiar with Intel/ARM hardware characteristics, Trusted Execution Environment principles and design, and fuzz testing.
-* Programming Languages: C / C++ / Python / JavaScript / Java / Shell
+* Programming Languages: C / C++ / Assembly / Python / JavaScript / Java / Shell
 
 Awards
 ======
