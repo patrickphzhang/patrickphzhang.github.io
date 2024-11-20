@@ -24,7 +24,7 @@ Work experience
 * 2023: Research Assistant
   * Zhongguancun Laboratory
   * Duties included: eBPF security research
-  * Supervisor: Professor Chenggang Wu
+  * Supervisor: Professor Chenggang Wu, Associate Professor Zhe Wang
   
 Skills
 ======
