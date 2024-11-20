@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Learning-Based Binary Code Similarity Detection Model through Adversarial Training with Multiple Function Variants"
 collection: publications
-category: manuscripts
+category: conferences
 # permalink: /publication/2024-06-hive
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-09-20
