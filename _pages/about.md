@@ -20,18 +20,18 @@ News
 
 Research
 ======
-My research interests lie in computer system security. In particular, my research lies in operating systems, program analysis, compiler transformation & optimization, and fuzzing. I have been working in the following directions:
+My research interests lie in computer system security. In particular, my research lies in operating systems, program analysis, and compiler transformation & optimization. I have been working in the following directions:
 1. Hardware-assisted execution environment, particularly for Linux eBPF.
 2. Compiler-based code optimization and obfuscation.
 3. Binary analysis and binary code similarity detection.
 
 Skills
 ======
-* Compiler: Proficient in LLVM compiler architecture, middle-end and back-end programming, including program analysis, code transformation, and reinforcement. 
+* Compiler: Proficient in LLVM compiler architecture, front-end/middle-end/back-end programming, program analysis, code transformation, and profile-guided optimization.
 * Kernel: Experienced in kernel bypassing, eBPF, Linux kernel analysis, operating system development, and kernel debugging.
 * Reverse Engineering: Skilled in binary code diffing and rewriting techniques.
 * Others: Familiar with Intel/ARM hardware characteristics, Trusted Execution Environment principles and design, and fuzz testing.
-* Programming Languages: C / C++ / Assembly / Python / JavaScript / Java / Shell
+* Programming Languages: C / C++ / Assembly / Python / Shell / Java / JavaScript
 
 Awards
 ======
