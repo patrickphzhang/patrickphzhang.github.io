@@ -19,7 +19,7 @@ Work experience
 ======
 * 2024: Tencent Tech Expert
   * WeChat Group
-  * Duties includes: program profiling, binary rewrite based optimization.
+  * Duties includes: program profiling, profile-guided optimization.
 
 * 2023: Research Assistant
   * Zhongguancun Laboratory
